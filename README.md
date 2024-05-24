@@ -72,7 +72,7 @@ Soy estudiante en la carrera de Sistemas de Información. Adjunto mis pequeños 
 
 #### Ciencia de Datos:
 <p align="left">
-    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*RzxZF0mmXAsMLrIzAWYDSg.png" width="100"/>
+    <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" width="100"/>
     <img src="https://cdn.dribbble.com/users/227882/screenshots/12127743/media/f5fea6d041f7d09ecbfe1b89248679c6.gif" width="80"/>
     <img src="https://img.icons8.com/?size=100&id=69132&format=png&color=000000" width="50"/>
     <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" width="50"/>
