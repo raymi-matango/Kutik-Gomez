@@ -40,17 +40,26 @@ Soy estudiante en la carrera de Sistemas de Información. Adjunto mis pequeños 
     <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="50"/>
     <img src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" width="50"/>
 </p>
+
 #### Base de Datos:
-- Oracle
-- PostgreSQL
-- SQL Server
+<p align="left">
+    <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" width="50"/>
+    <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" width="50"/>
+    <img src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" width="50"/>
+    <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" width="50"/>
+    <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" width="50"/>
+</p>
+
+#### Herramientas:
 
 ---
 
 ### Aprendiendo
 
 #### Aplicaciones móviles:
-- React Native
+<p align="left">
+    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="50"/>
+</p>
 
 #### Ciencia de Datos:
 - Python
