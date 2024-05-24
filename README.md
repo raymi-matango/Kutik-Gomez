@@ -1,4 +1,4 @@
-## Imanalla sumak runakuna 👋,Imanalla sumak runakuna, ñuka Kutik shutimi kapani, tawantinsuyumanta hatariy.  
+## Imanalla sumak runakuna, ñuka Kutik shutimi kapani, tawantinsuyumanta hatariy.👋
 
 ### Saludos amigxs, mi nombre es Kutik Gómez, Kichwa Otavalo de la comunidad de Peguche.
 
