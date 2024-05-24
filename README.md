@@ -11,9 +11,7 @@ Soy estudiante en la carrera de Sistemas de Información. Adjunto mis pequeños 
 
 #### Sistemas Operativos:
 <p align="left">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="Mac"/>
+    <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="Mac" width="100"/>
 </p>
 
 #### Lenguajes: 
