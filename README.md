@@ -53,7 +53,7 @@ Soy estudiante en la carrera de Sistemas de Información. Adjunto mis pequeños 
 #### Herramientas:
 <p align="left">
     <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="50"/>
-    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*Ij4wyJ4yMq_0Vm_U.png" width="100"/>
+    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*Ij4wyJ4yMq_0Vm_U.png" width="110"/>
     <img src="" width="50"/>
     <img src="" width="50"/>
     <img src="" width="50"/>
