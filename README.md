@@ -29,9 +29,8 @@ Soy estudiante en la carrera de Sistemas de Información. Adjunto mis pequeños 
 <p align="left">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="45"/>
     <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="50"/>
-    
-    <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="50"/>
-    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50"/>
+    <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="50"/>
+    <img src="https://img.icons8.com/?size=100&id=mUBILbYvUMq8&format=png&color=000000" width="50"/>
 </p>
 
 #### Frontend:
