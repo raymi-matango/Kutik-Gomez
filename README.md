@@ -66,6 +66,7 @@ Soy estudiante en la carrera de Sistemas de Información. Adjunto mis pequeños 
 #### Aplicaciones móviles:
 <p align="left">
     <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="50"/>
+    <img src="https://saigontechnology.com/assets/media/image6_2.webp" width="50"/>
 </p>
 
 #### Ciencia de Datos:
@@ -77,6 +78,13 @@ Soy estudiante en la carrera de Sistemas de Información. Adjunto mis pequeños 
     <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" width="50"/>
 </p>
 
+#### Otras:
+<p align="left">
+    <img src="https://cdn.worldvectorlogo.com/logos/strapi-full-logo-dark.svg" width="50"/>
+    <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" width="50"/>
+    <img src="" width="50"/>
+    
+</p>
 ---
 
 © 2024 Kutik Gómez - Todos los derechos reservado
