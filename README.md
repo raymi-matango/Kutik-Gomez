@@ -82,7 +82,7 @@ Soy estudiante en la carrera de Sistemas de Información. Adjunto mis pequeños 
 #### Otras:
 <p align="left">
     <img src="https://cdn.worldvectorlogo.com/logos/strapi-full-logo-dark.svg" width="90"/>
-    <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" width="40"/>
+    <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000"alte="NextJS" width="40"/>
     
 </p>
 
