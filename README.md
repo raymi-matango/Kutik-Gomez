@@ -32,11 +32,13 @@ Soy estudiante en la carrera de Sistemas de Información. Adjunto mis pequeños 
     <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="50"/>
     <img src="https://img.icons8.com/?size=100&id=mUBILbYvUMq8&format=png&color=000000" width="50"/>
 </p>
+
 #### Frontend:
+
 <p align="left">
     <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" width="50"/>
     <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="50"/>
-    <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="50"/>
+    <img src="https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000" width="50"/>
 </p>
 #### Base de Datos:
 - Oracle
