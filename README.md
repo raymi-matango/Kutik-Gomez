@@ -21,7 +21,7 @@ Soy estudiante en la carrera de Sistemas de Información. Adjunto mis pequeños 
 <p align="left">
     <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50"/>
     <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="45"/>
-    <img src="https://img.icons8.com/?size=100&id=122959&format=png&color=000000" width="50"/>
+    <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="50"/>
 </p>
 
 #### Backend:
