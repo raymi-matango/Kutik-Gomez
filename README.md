@@ -85,6 +85,8 @@ Soy estudiante en la carrera de Sistemas de Información. Adjunto mis pequeños 
     <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" width="40"/>
     
 </p>
+
 ---
+
 
 © 2024 Kutik Gómez - Todos los derechos reservado
