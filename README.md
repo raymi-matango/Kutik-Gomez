@@ -67,7 +67,7 @@ Soy estudiante en la carrera de Sistemas de Información. Adjunto mis pequeños 
 #### Aplicaciones móviles:
 <p align="left">
     <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="70"/>
-    <img src="https://evergine.com/wp-content/webp-express/webp-images/uploads/2023/09/Maui-1.png.webp" width="70"/>
+    <img src="https://evergine.com/wp-content/webp-express/webp-images/uploads/2023/09/Maui-1.png.webp" width="100"/>
 </p>
 
 #### Ciencia de Datos:
