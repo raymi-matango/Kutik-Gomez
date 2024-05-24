@@ -11,7 +11,7 @@ Soy estudiante en la carrera de Sistemas de Información. Adjunto mis pequeños 
 
 #### Sistemas Operativos:
 <p align="left">
-    <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="Mac" width="100"/>
+    <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="Mac" width="50"/>
 </p>
 
 #### Lenguajes: 
